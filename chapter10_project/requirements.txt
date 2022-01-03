@@ -1,0 +1,3 @@
+fastapi==0.70.1
+pydantic==1.8.2
+tortoise==0.1.1
